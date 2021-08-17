@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/keeper/static/js/main.17908496.chunk.js",
+    "main.js.map": "/keeper/static/js/main.17908496.chunk.js.map",
+    "runtime-main.js": "/keeper/static/js/runtime-main.50f25e75.js",
+    "runtime-main.js.map": "/keeper/static/js/runtime-main.50f25e75.js.map",
+    "static/js/2.ecf42013.chunk.js": "/keeper/static/js/2.ecf42013.chunk.js",
+    "static/js/2.ecf42013.chunk.js.map": "/keeper/static/js/2.ecf42013.chunk.js.map",
+    "index.html": "/keeper/index.html",
+    "static/js/2.ecf42013.chunk.js.LICENSE.txt": "/keeper/static/js/2.ecf42013.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50f25e75.js",
+    "static/js/2.ecf42013.chunk.js",
+    "static/js/main.17908496.chunk.js"
+  ]
+}
